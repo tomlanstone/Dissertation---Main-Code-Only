@@ -154,5 +154,4 @@ cython_debug/
 *.joblib
 *.sqlite
 *.ini
-*.txt
 *.png

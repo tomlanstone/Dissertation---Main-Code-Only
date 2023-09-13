@@ -1,0 +1,1 @@
+As currently set up, this directory has all of the structure required for the main code to know where to put things. Nothing here should ever need touching after the HCSOs csv file is added.
